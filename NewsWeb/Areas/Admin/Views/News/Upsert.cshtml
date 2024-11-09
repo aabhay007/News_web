@@ -1,0 +1,104 @@
+﻿@model NewsWeb.Models.ViewModels.NewsVM
+@{
+    ViewData["Title"] = "Upsert";
+    var title = Model.News.Id != 0 ? "Edit News" : "Add New News";
+}
+<div>
+    <h2>@title</h2>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <form method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if(Model.News.Id!=0)
+            {
+                <input type="hidden" asp-for="@Model.News.Id"/>
+            }
+            <div class="form-group">
+                <label asp-for="News.HeadLine"></label>
+                <input asp-for="News.HeadLine" class="form-control"/>
+                <span asp-validation-for="News.HeadLine" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="News.Description"></label>
+                <textarea asp-for="News.Description" rows="3" class="form-control"></textarea>
+                <span asp-validation-for="News.Description" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="News.ImageUrl"></label>
+                <input type="file" name="files" id="uploadBox" multiple class="" />
+                <span asp-validation-for="News.ImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="News.PlaceId"></label>
+                @Html.DropDownListFor(m=>Model.News.PlaceId,Model.PlaceList,"Select Place",new{@class="form-control"})
+                <span asp-validation-for="News.PlaceId" class="text-danger"></span>
+            </div>
+               <div class="form-group">
+                <label asp-for="News.CategoryId"></label>
+                @Html.DropDownListFor(m=>Model.News.CategoryId,Model.CategoryList,"Select Category",new{@class="form-control"})
+                <span asp-validation-for="News.CategoryId" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="News.Date"></label>
+                <input type="datetime-local" asp-for="News.Date" class="form-control" />
+                <span asp-validation-for="News.Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="News.External_Url"></label>
+                <input asp-for="News.External_Url" class="form-control" />
+                <span asp-validation-for="News.External_Url" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @if (Model.News.Id != 0)
+                {
+                    <partial name="_EditAndBackToListButtons" />
+                }
+                else
+                {
+                    <div class="row">
+                        <div class="col">
+                            <button type="submit" onclick="return ValData()" class="btn btn-info form-control" style="border-radius: 20px;">
+                                Save
+                            </button>
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success form-control" style="border-radius: 20px;">
+                                Back To List
+                            </a>
+                        </div>  
+                    </div>
+                }
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        @if (Model.News.Id != 0)
+        {
+            <img src="@Model.News.ImageUrl" />
+        }
+    </div>
+</div>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial"/>
+    <script src="https://cdn.tiny.cloud/1/yceb7wqr2ps5v3vunieemb9syejgjl73j210uk6duakmo75e/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+<script>
+   tinymce.init({
+       selector:"textarea",
+       plugins:"lists",
+       menubar:"File Edit Format"
+   })
+    </script>
+
+
+
+<script>
+function ValData(){
+    if(document.getElementById('uploadbox').value==""){
+        swal('Error',"Please Select image",'error');
+        return false;
+    }
+}
+</script>
+}

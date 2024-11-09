@@ -1,0 +1,89 @@
+﻿@using NewsWeb.Utility
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NewsWeb</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/NewsWeb.styles.css" asp-append-version="true" />
+    @* CSS REF*@
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    
+    </style>
+</head>
+<body>
+    <header style="">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow navbar-dark" style="background-color: #1abc9c;position: fixed; top: 0; width: 100%; z-index: 1000;">
+            <div class="container-fluid">
+                <img src="~/images/logo/news-logo.png" class="" style="filter: brightness(5) hue-rotate(180deg); width: 120px; height: auto;" />
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"><h4 style="font-weight: 700; color: #fff;">Home</h4></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy"><h4 style="font-weight: 700; color: #fff;">Privacy</h4></a>
+                        </li>
+                        @if (User.IsInRole(SD.Role_Admin))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link text-dark" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><h4 style="font-weight: 700; color: #fff;">Manage</h4></a>
+                                <div class="dropdown-menu" style="background-color: #0f0f0f0f;border-radius: 30px;">
+                                    <a class="dropdown-item " asp-area="Admin" asp-controller="Place" asp-action="Index">
+                                        <h4 style="font-weight: 700;text-decoration: underline;text-decoration-style: double;">
+                                            Place
+                                        </h4>
+                                    </a>
+                                    <a class="dropdown-item " asp-area="Admin" asp-controller="News" asp-action="Index"><h4 style="font-weight: 700;text-decoration: underline;text-decoration-style: double;">News</h4></a>
+                                    <a class="dropdown-item " asp-area="Admin" asp-controller="Category" asp-action="Index"><h4 style="font-weight: 700;text-decoration: underline;text-decoration-style: double;">Category</h4></a>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+
+
+        <marquee style="color: #da3838; background-color: #fff; font-size: 24px; border-radius: 10px;margin-top:78px;">
+            State live news is a news channel specially working for himachal pradesh, covering news about culture, sports, politics and business.It is also the part of Kotkhai09USA ,Founded by Mr.Bharat Bhushan
+        </marquee>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3" style="">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - NewsWeb - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @*    JSS REF*@
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery_ui.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://kit.fontawesome.com/e19c476714.js"></script>
+</body>
+</html>
+<script>
+    console.log("%cWarning: This Website Is Developed By Abhay007! 💀", "font-size: 30px; font-weight: bold; color: red;");
+</script>

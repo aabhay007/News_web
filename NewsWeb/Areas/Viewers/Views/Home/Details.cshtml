@@ -1,0 +1,98 @@
+﻿@model NewsWeb.Models.News
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Detail</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .headline {
+            font-size: 28px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .news-image {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .category, .date {
+            font-size: 16px;
+            color: #777;
+            margin-bottom: 15px;
+        }
+
+            .category span, .date span {
+                font-weight: bold;
+                color: #333;
+            }
+
+        .myrow {
+            display: flex;
+            justify-content: space-around;
+        }
+    </style>
+</head>
+<body>
+    <h2 class="text-center"><b><u>News Details</u></b></h2>
+    <div class="container">
+        <h2 class="text-center font-weight-bold">@Model.HeadLine</h2><hr />
+        <div class="myrow">
+            <div class="image" style="max-width: 50%;    margin-top: 15px;">
+                <img src="@Model.ImageUrl" alt="News Image" class="news-image">
+            </div>
+            <div class="desc" style="max-width:43%;    margin-top: 23px;   ">
+                <p class="category">Category: <span>@Model.Category.Name</span></p>
+                <p class="date">Published Date: <span id="formattedDate"></span></p>
+                <label>View On FaceBook</label>
+                <a href="@Model.External_Url" class="btn" style="border-radius: 30px;    background-color: #4d4de2;
+    color: white; "><i class="fa fa-facebook"></i></a>
+                <div class="">
+                    <a class="btn" style="background-color:darkcyan;color:#fff;border-radius:20px;" asp-action="Index">Back To Home</a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="container">
+            <h2 class="text-center"><u><b>Description</b></u></h2>
+            <p class="desc">@Html.Raw(Model.Description)</p>
+        </div>
+
+    </div>
+    <script>
+        // Convert ISO date string to custom format
+        function formatDate(isoDate) {
+            const date = new Date(isoDate);
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return date.toLocaleDateString('en-US', options);
+        }
+
+        // Get the published date from the model
+        const publishedDate = "@Model.Date";
+
+        // Format the date and display it
+        const formattedDate = formatDate(publishedDate);
+        document.getElementById("formattedDate").textContent = formattedDate;
+    </script>
+</body>
+</html>

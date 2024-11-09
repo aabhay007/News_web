@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\NewsWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NewsWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\images\\Farmers Protest.png",
+      "PackagePath": "staticwebassets\\images\\data1\\images\\Farmers Protest.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\images\\Joe Bidens Statement.png",
+      "PackagePath": "staticwebassets\\images\\data1\\images\\Joe Bidens Statement.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\images\\NASA and SpaceX.png",
+      "PackagePath": "staticwebassets\\images\\data1\\images\\NASA and SpaceX.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\images\\New Apple Vision Pro.png",
+      "PackagePath": "staticwebassets\\images\\data1\\images\\New Apple Vision Pro.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\images\\Noise New Series.png",
+      "PackagePath": "staticwebassets\\images\\data1\\images\\Noise New Series.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\images\\Rugby is crazy!.png",
+      "PackagePath": "staticwebassets\\images\\data1\\images\\Rugby is crazy!.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\tooltips\\Farmers Protest.png",
+      "PackagePath": "staticwebassets\\images\\data1\\tooltips\\Farmers Protest.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\tooltips\\Joe Bidens Statement.png",
+      "PackagePath": "staticwebassets\\images\\data1\\tooltips\\Joe Bidens Statement.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\tooltips\\NASA and SpaceX.png",
+      "PackagePath": "staticwebassets\\images\\data1\\tooltips\\NASA and SpaceX.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\tooltips\\New Apple Vision Pro.png",
+      "PackagePath": "staticwebassets\\images\\data1\\tooltips\\New Apple Vision Pro.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\tooltips\\Noise New Series.png",
+      "PackagePath": "staticwebassets\\images\\data1\\tooltips\\Noise New Series.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\data1\\tooltips\\Rugby is crazy!.png",
+      "PackagePath": "staticwebassets\\images\\data1\\tooltips\\Rugby is crazy!.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\logo\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\logo\\news-logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\news-logo.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\112fce49-0a2a-4432-b88f-93a71d713421.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\112fce49-0a2a-4432-b88f-93a71d713421.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\245e0e52-61c0-4231-95be-a0bc1e07d597.png",
+      "PackagePath": "staticwebassets\\images\\news\\245e0e52-61c0-4231-95be-a0bc1e07d597.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\3baa4dd6-0e7c-4751-b820-039c1e3a2b12.png",
+      "PackagePath": "staticwebassets\\images\\news\\3baa4dd6-0e7c-4751-b820-039c1e3a2b12.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\4185a74a-cfc5-4d1e-bde1-d9cd6896a54a.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\4185a74a-cfc5-4d1e-bde1-d9cd6896a54a.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\426e688b-9130-48d1-a6cf-7d87bbdd9253.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\426e688b-9130-48d1-a6cf-7d87bbdd9253.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\702e7ac3-c153-40cc-92f4-3275581b22c7.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\702e7ac3-c153-40cc-92f4-3275581b22c7.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\7b1a0458-c1a7-4da4-ac8d-304ab10f39cc.png",
+      "PackagePath": "staticwebassets\\images\\news\\7b1a0458-c1a7-4da4-ac8d-304ab10f39cc.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\aec093ba-2f89-4feb-8ad1-268e5fdc0de6.png",
+      "PackagePath": "staticwebassets\\images\\news\\aec093ba-2f89-4feb-8ad1-268e5fdc0de6.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\b4ab6cf1-3d40-4abf-a898-673bd3c5adb9.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\b4ab6cf1-3d40-4abf-a898-673bd3c5adb9.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\b714699c-d799-4c7a-92fe-2c4571c3c1e8.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\b714699c-d799-4c7a-92fe-2c4571c3c1e8.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\c61a21c8-f9b3-430b-9e7d-15f40e3af9d4.png",
+      "PackagePath": "staticwebassets\\images\\news\\c61a21c8-f9b3-430b-9e7d-15f40e3af9d4.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\de0c55ef-170a-4922-9a38-13d504f7473c.png",
+      "PackagePath": "staticwebassets\\images\\news\\de0c55ef-170a-4922-9a38-13d504f7473c.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\e453c33a-fe48-4aef-a9b3-d0b40cfd0ce7.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\e453c33a-fe48-4aef-a9b3-d0b40cfd0ce7.jpg"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\images\\news\\f0c36be6-e9a7-440c-b336-850dcd28413e.png",
+      "PackagePath": "staticwebassets\\images\\news\\f0c36be6-e9a7-440c-b336-850dcd28413e.png"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\category.js",
+      "PackagePath": "staticwebassets\\js\\category.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\engine1\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\engine1\\jquery.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\engine1\\script.js",
+      "PackagePath": "staticwebassets\\js\\engine1\\script.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\engine1\\style.css",
+      "PackagePath": "staticwebassets\\js\\engine1\\style.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\engine1\\style.mod.css",
+      "PackagePath": "staticwebassets\\js\\engine1\\style.mod.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\engine1\\wowslider.js",
+      "PackagePath": "staticwebassets\\js\\engine1\\wowslider.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\engine1\\wowslider.mod.js",
+      "PackagePath": "staticwebassets\\js\\engine1\\wowslider.mod.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\news.js",
+      "PackagePath": "staticwebassets\\js\\news.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\place.js",
+      "PackagePath": "staticwebassets\\js\\place.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MVC_PROJECTS\\NewsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.NewsWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.NewsWeb.props",
+      "PackagePath": "build\\NewsWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NewsWeb.props",
+      "PackagePath": "buildMultiTargeting\\NewsWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.NewsWeb.props",
+      "PackagePath": "buildTransitive\\NewsWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

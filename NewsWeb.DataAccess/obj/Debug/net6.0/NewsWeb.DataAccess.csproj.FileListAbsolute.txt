@@ -1,0 +1,17 @@
+D:\MVC_PROJECTS\NewsWeb.DataAccess\bin\Debug\net6.0\NewsWeb.DataAccess.deps.json
+D:\MVC_PROJECTS\NewsWeb.DataAccess\bin\Debug\net6.0\NewsWeb.DataAccess.runtimeconfig.json
+D:\MVC_PROJECTS\NewsWeb.DataAccess\bin\Debug\net6.0\NewsWeb.DataAccess.dll
+D:\MVC_PROJECTS\NewsWeb.DataAccess\bin\Debug\net6.0\NewsWeb.DataAccess.pdb
+D:\MVC_PROJECTS\NewsWeb.DataAccess\bin\Debug\net6.0\NewsWeb.Models.dll
+D:\MVC_PROJECTS\NewsWeb.DataAccess\bin\Debug\net6.0\NewsWeb.Models.pdb
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.csproj.AssemblyReference.cache
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.AssemblyInfoInputs.cache
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.AssemblyInfo.cs
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.csproj.CoreCompileInputs.cache
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.csproj.CopyComplete
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.dll
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\refint\NewsWeb.DataAccess.dll
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.pdb
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\NewsWeb.DataAccess.genruntimeconfig.cache
+D:\MVC_PROJECTS\NewsWeb.DataAccess\obj\Debug\net6.0\ref\NewsWeb.DataAccess.dll

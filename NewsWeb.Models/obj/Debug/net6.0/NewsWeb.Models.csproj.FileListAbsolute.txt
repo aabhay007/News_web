@@ -1,0 +1,12 @@
+D:\MVC_PROJECTS\NewsWeb.Models\bin\Debug\net6.0\NewsWeb.Models.deps.json
+D:\MVC_PROJECTS\NewsWeb.Models\bin\Debug\net6.0\NewsWeb.Models.dll
+D:\MVC_PROJECTS\NewsWeb.Models\bin\Debug\net6.0\NewsWeb.Models.pdb
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\NewsWeb.Models.csproj.AssemblyReference.cache
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\NewsWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\NewsWeb.Models.AssemblyInfoInputs.cache
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\NewsWeb.Models.AssemblyInfo.cs
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\NewsWeb.Models.csproj.CoreCompileInputs.cache
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\NewsWeb.Models.dll
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\refint\NewsWeb.Models.dll
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\NewsWeb.Models.pdb
+D:\MVC_PROJECTS\NewsWeb.Models\obj\Debug\net6.0\ref\NewsWeb.Models.dll

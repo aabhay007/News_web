@@ -1,0 +1,28 @@
+﻿<div class="row">
+    <div class="col-7">
+
+        <h2 class="text-primary">Category</h2>
+    </div>
+    <div class="col-3">
+        <a asp-action="Upsert" class="btn btn-info form-control" style="border-radius: 20px;background-color:darkcyan;width: 155px;">
+            <i class="fas fa-plus"></i> &nbsp;New Category
+        </a>
+    </div>
+</div>
+<div class="container rounded border m-2 p-2">
+    <div class="table-responsive">
+    <table id="tblData" class="table table-bordered table-striped table-active">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+</div>
+@section scripts
+
+    {
+    <script src="~/js/category.js"></script>
+}

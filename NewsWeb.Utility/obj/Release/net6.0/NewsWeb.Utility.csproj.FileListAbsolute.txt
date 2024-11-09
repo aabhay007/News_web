@@ -1,0 +1,12 @@
+D:\MVC_PROJECTS\NewsWeb.Utility\bin\Release\net6.0\NewsWeb.Utility.deps.json
+D:\MVC_PROJECTS\NewsWeb.Utility\bin\Release\net6.0\NewsWeb.Utility.dll
+D:\MVC_PROJECTS\NewsWeb.Utility\bin\Release\net6.0\NewsWeb.Utility.pdb
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\NewsWeb.Utility.csproj.AssemblyReference.cache
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\NewsWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\NewsWeb.Utility.AssemblyInfoInputs.cache
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\NewsWeb.Utility.AssemblyInfo.cs
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\NewsWeb.Utility.csproj.CoreCompileInputs.cache
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\NewsWeb.Utility.dll
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\refint\NewsWeb.Utility.dll
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\NewsWeb.Utility.pdb
+D:\MVC_PROJECTS\NewsWeb.Utility\obj\Release\net6.0\ref\NewsWeb.Utility.dll
