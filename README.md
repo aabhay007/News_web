@@ -20,6 +20,7 @@ NewsWeb is a web application that provides a platform for users to share and rea
 ## Installation
 
 ### Prerequisites
+
 - [.NET SDK](https://dotnet.microsoft.com/download) (version 6.0 or later)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) or any compatible database
 
