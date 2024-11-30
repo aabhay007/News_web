@@ -10,6 +10,7 @@ NewsWeb is a web application that provides a platform for users to share and rea
 - Image uploads for news articles
 - Role-based access control for admin users
 
+
 ## Technologies Used
 - ASP.NET Core
 - Entity Framework Core
