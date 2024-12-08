@@ -1,5 +1,4 @@
 # NewsWeb
-
 ## Overview
 NewsWeb is a web application that provides a platform for users to share and read news articles. The application is built using ASP.NET Core and utilizes Entity Framework for data access.
 
